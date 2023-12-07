@@ -2,6 +2,7 @@ body {
   text-align: center;
   color: #000000b5;
   font-family: system-ui, -apple-system;
+  background-color: blanchedalmond;
 }
 
 body, div {
@@ -51,7 +52,7 @@ a {
   color: mediumpurple;
   background-color: salmon;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   font-family: system-ui, -apple-system;
   font-size: 14px;
   font-weight: bold;
